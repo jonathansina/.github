@@ -11,7 +11,7 @@
 <br/>
 
 <!-- PROFILE BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=jonathansjani&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=jonathansina&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sina-jani-44a0681b4/)
 &nbsp;
@@ -37,26 +37,30 @@ I'm an **AI Director** operating at the intersection of research, engineering, a
 
 <div align="center">
 
+### 💻 Programming Languages
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+
 ### 🤖 AI / ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
 
-### 🔁 MLOps & Orchestration
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Kubeflow](https://img.shields.io/badge/Kubeflow-1665AA?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-
-### 🏗️ Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### 🔁 MLOps & Serving
+[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)](https://mlflow.org/)
+[![Prefect](https://img.shields.io/badge/Prefect-0052FF?style=for-the-badge&logo=prefect&logoColor=white)](https://www.prefect.io/)
+[![Ray](https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white)](https://www.ray.io/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
 ### 🐳 Infrastructure & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
+[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io/)
+[![MinIO](https://img.shields.io/badge/MinIO-C7202C?style=for-the-badge&logo=minio&logoColor=white)](https://min.io/)
 
 </div>
 
@@ -66,13 +70,13 @@ I'm an **AI Director** operating at the intersection of research, engineering, a
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathansjani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathansina&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathansjani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathansina&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/>
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathansjani&theme=tokyonight&hide_border=true" />
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathansina&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -84,10 +88,10 @@ I'm an **AI Director** operating at the intersection of research, engineering, a
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| 🧬 **[Project Alpha](#)** | End-to-end ML platform for real-time inference at scale | Python · PyTorch · Kubernetes · FastAPI |
-| 🔄 **[Project Beta](#)** | Automated MLOps pipeline with experiment tracking & model registry | MLflow · Airflow · Docker · GitHub Actions |
-| ⚡ **[Project Gamma](#)** | High-performance inference engine with C++ backend bindings | C++ · Python · FastAPI · gRPC |
-| 📈 **[Project Delta](#)** | Distributed training framework for large-scale NLP models | PyTorch · Kubeflow · CUDA · AWS |
+| 🔍 **[ISLE (arXiv:2512.12760)](#)** | Hybrid information retrieval architecture for scientific discovery | Python · Ray · Docker · GitLab |
+| 🏭 **[Matna Nexus](#)** | Production-deployed industrial diagnosis platform for advanced behavioral insights | Python · Ansible · Docker · GitLab CI |
+| ⚡ **[fuzzy-c-optimized](#)** | High-performance fast fuzzy logic systems with native bindings | C++ · Python · Makefiles |
+| 🌡️ **[Thermodynamic Diagnostics](#)** | Physics-informed modeling and time-series anomaly detection for chiller devices | Python · Ray · Docker |
 
 </div>
 
