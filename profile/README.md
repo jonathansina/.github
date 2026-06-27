@@ -72,7 +72,7 @@ I'm an **AI Director** operating at the intersection of research, engineering, a
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathansina&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathansina&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathansina&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter+notebook" />
 
 <br/>
 
